@@ -1,0 +1,16 @@
+body {
+    margin-left:5% ;
+    width: 90%;   
+}
+
+.intro {
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px ;
+
+    background-color: rgb(228, 227, 227);
+
+    padding-left: 1.5%;
+}
